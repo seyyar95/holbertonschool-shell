@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name \8.js -type f -delete
